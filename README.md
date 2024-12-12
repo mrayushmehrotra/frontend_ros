@@ -9,7 +9,7 @@ This project is a React-based frontend application that provides two main functi
 <img src="./public/screenshot.png" alt="Application Screenshot">
 
 ## Demo Video
-<video src="https://github.com/mrayushmehrotra/frontend_ros/blob/master/video.webm" controls width="100%" alt="Application Demo Video"></video>
+<video src="https://raw.githubusercontent.com/mrayushmehrotra/frontend_ros/master/video.webm" controls width="100%" alt="Application Demo Video"></video>
 
 ## Features
 
