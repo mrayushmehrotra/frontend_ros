@@ -7,7 +7,10 @@ This project is a React-based frontend application that provides two main functi
 
 ## Screenshot 
 <img src="./public/screenshot.png" alt="Application Screenshot">
-  
+
+## Demo Video
+<video src="./public/video.webm" controls width="100%" alt="Application Demo Video"></video>
+
 ## Features
 
 - File upload form with error handling.
